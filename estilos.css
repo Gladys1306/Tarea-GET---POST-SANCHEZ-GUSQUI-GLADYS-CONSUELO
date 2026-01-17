@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.contenido {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+form input {
+    padding: 5px;
+    width: 250px;
+}
+
+input[type="submit"] {
+    width: auto;
+    cursor: pointer;
+}
